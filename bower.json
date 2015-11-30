@@ -1,0 +1,21 @@
+{
+  "name": "y",
+  "homepage": "https://github.com/youngmanr/bookmark-challenge",
+  "authors": [
+    "Robert Youngman <rob_youngman@yahoo.com>"
+  ],
+  "description": "git hub profiles project",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
